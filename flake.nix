@@ -2,7 +2,6 @@
   description = "Nix talk slides";
 
   inputs = {
-    emupkgs.url = "nixpkgs/48a0fb7aa";
     flake-utils.url = "github:numtide/flake-utils";
   };
 
